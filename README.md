@@ -1,5 +1,5 @@
 
-<h1><b>Hi there, I'm </b><a href="https://github.com/JBishopCode">Jordan Bishop</a> 👋
+<h1><b>Hi there, I'm </b><a href="https://github.com/JBishopCode">Jordan Bishop</a></h1></b> 👋
 <br>
 
 ***About Me***
