@@ -7,7 +7,7 @@
 - 🏫 I am a term 3 (second year) Computer Engineering Student at Memorial University of Newfoundland
 - 📚 In my courses I am currently learning:
   - C++
-- In my free time I enjoy playing Hockey, Soccer or Golf as well as cheering on the Maple Leafs. I also play video games from time to time when I dont't have anything else to do. 
+- In my free time I enjoy playing Hockey, Soccer or Golf as well as cheering on the Maple Leafs. I also play video games from time to time when I don't have anything else to do. 
 - 📫 Reach out to me at: jordanbishop26@outlook.com
 
 
