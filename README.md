@@ -8,6 +8,7 @@
 - 📚 In my courses/free time I am currently learning:
   - C++
   - Object Oriented Programming (OOP)
+  - Machine Learning (Scikit-Learn, Pandas, PyTorch)
 - My plans for the next few months:
   - Do CS50 course and learn:
     - C
