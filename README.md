@@ -1,7 +1,6 @@
 
-<h1><b>Hi there, I'm </b><a href="https://github.com/JBishopCode">Jordan Bishop</a></h1></b> 👋
+<h1><b>Hi there, I'm </b><a href="https://github.com/JBishopCode">Jordan Bishop</a>👋</h1></b>  
 <br>
-
 ***About Me***
 
 - 🏫 I am a term 3 (second year) Computer Engineering Student at Memorial University of Newfoundland
