@@ -5,8 +5,23 @@
 ***About Me***
 
 - 🏫 I am a term 3 (second year) Computer Engineering Student at Memorial University of Newfoundland
-- 📚 In my courses I am currently learning:
+- 📚 In my courses/free time I am currently learning:
   - C++
+  - Object Oriented Programming (OOP)
+- My plans for the next few months:
+  - Do CS50 course and learn:
+    - C
+    - JavaScript
+    - R
+    - SQL
+    - HTML
+    - CSS
+    - Django
+    - Intro to AI/Data Science/Cybersecurity
+  - Do projects such as:
+    - Some sort of Machine Learning Predictor for something that I am interested in
+    - Make a porfolio website with new learned skills
+  - Get an Internship :)
 - In my free time I enjoy playing Hockey, Soccer or Golf as well as cheering on the Maple Leafs. I also play video games from time to time when I don't have anything else to do. 
 - 📫 Reach out to me at: jordanbishop26@outlook.com
 
